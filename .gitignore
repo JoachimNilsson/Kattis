@@ -2,12 +2,17 @@
 *.class
 
 #Eclipse
-bin*
+/bin/
 .settings/
 .project
 .classpath
 
 # Log file
 *.log
+
+# Text file
+*.txt
+*.ans
+*.in
 
 .DS_Store
