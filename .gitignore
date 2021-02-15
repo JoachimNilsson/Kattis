@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+#Eclipse
+bin*
+.settings/
+.project
+.classpath
+
+# Log file
+*.log
+
+.DS_Store
