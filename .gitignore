@@ -2,7 +2,7 @@
 *.class
 
 #Eclipse
-/bin/
+bin*
 .settings/
 .project
 .classpath
